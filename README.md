@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Nayyer</h1>
 <h3 align="center">A passionate AIML and Data Science Enthusiast</h3>
-# 💫 About Me:
+
+## 💫 About Me:
 ⚡ I am a passionate AIML and Data Science Enthusiast<br>🔭 I’m currently working on projects related to Machine Learning, Deep Learning<br>👯 I’m open to collaborate for projects<br>🤝 You can contact me at nayyeraadarsh@gmail.com<br>🌱 I’m currently learning MLOps, Generative AI, LLMs, Computer Vision<br>💬 Ask me about Machine Learning, Data Science, Generative AI<br>
 
 
